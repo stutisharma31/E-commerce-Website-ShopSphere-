@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/shopSphere.git
+   git clone https://github.com/stutisharma31/E-commerce-Website-ShopSphere.git
 2. Navigate to the project directory:
 bash
 cd shopSphere
